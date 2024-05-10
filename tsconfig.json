@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "preserveWatchOutput": true,
+    "resolveJsonModule": true,
+    "noEmit": true,
+    "module": "esnext",
+    "target": "esnext",
+    "moduleResolution": "node",
+    "jsx": "react"
+  },
+  "include": ["src", "main.ts"]
+}
