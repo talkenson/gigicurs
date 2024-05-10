@@ -756,7 +756,7 @@
 
       ],
       "name": "Паж жезлов",
-      "rank": "page",
+      "rank": 11,
       "suit": "wands"
     },
     {
@@ -769,7 +769,7 @@
 
 ],
       "name": "Рыцарь жезлов",
-      "rank": "knight",
+      "rank": 12,
       "suit": "wands"
     },
     {
@@ -782,7 +782,7 @@
 
 ],
       "name": "Королева жезлов",
-      "rank": "queen",
+      "rank": 13,
       "suit": "wands"
     },
     {
@@ -795,7 +795,7 @@
 
 ],
       "name": "Король жезлов",
-      "rank": "king",
+      "rank": 14,
       "suit": "wands"
     },
     {
@@ -965,7 +965,7 @@
 
       ],
       "name": "Паж кубков",
-      "rank": "page",
+      "rank": 11,
       "suit": "cups"
     },
     {
@@ -975,7 +975,7 @@
 
 ],
       "name": "Рыцарь кубков",
-      "rank": "knight",
+      "rank": 12,
       "suit": "cups"
     },
     {
@@ -991,7 +991,7 @@
 
       ],
       "name": "Королева кубков",
-      "rank": "queen",
+      "rank": 13,
       "suit": "cups"
     },
     {
@@ -1001,7 +1001,7 @@
 
 ],
       "name": "Король кубков",
-      "rank": "king",
+      "rank": 14,
       "suit": "cups"
     },
     {
@@ -1155,7 +1155,7 @@
 
       ],
       "name": "Паж мечей",
-      "rank": "page",
+      "rank": 11,
       "suit": "swords"
     },
     {
@@ -1173,7 +1173,7 @@
 
 ],
       "name": "Рыцарь мечей",
-      "rank": "knight",
+      "rank": 12,
       "suit": "swords"
     },
     {
@@ -1186,7 +1186,7 @@
 
       ],
       "name": "Королева мечей",
-      "rank": "queen",
+      "rank": 13,
       "suit": "swords"
     },
     {
@@ -1199,7 +1199,7 @@
 
       ],
       "name": "Король мечей",
-      "rank": "king",
+      "rank": 14,
       "suit": "swords"
     },
     {
@@ -1350,7 +1350,7 @@
 
       ],
       "name": "Паж пентаклей",
-      "rank": "page",
+      "rank": 11,
       "suit": "pentacles"
     },
     {
@@ -1364,7 +1364,7 @@
 
       ],
       "name": "Рыцарь пентаклей",
-      "rank": "knight",
+      "rank": 12,
       "suit": "pentacles"
     },
     {
@@ -1383,7 +1383,7 @@
 
       ],
       "name": "Королева пентаклей",
-      "rank": "queen",
+      "rank": 13,
       "suit": "pentacles"
     },
     {
@@ -1396,7 +1396,7 @@
 
       ],
       "name": "Король пентаклей",
-      "rank": "king",
+      "rank": 14,
       "suit": "pentacles"
     }
   ]
