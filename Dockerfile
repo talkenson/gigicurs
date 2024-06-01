@@ -1,4 +1,4 @@
-FROM node:lts-slim AS base
+FROM dockerhub.timeweb.cloud/node:18-slim AS base
 
 # Create app directory
 WORKDIR /app
@@ -17,13 +17,15 @@ RUN npm run typecheck
 
 FROM base AS runner
 
+WORKDIR /app
+
 # Bundle app source
 COPY . .
 
 # Install only production app dependencies
 RUN npm ci --only=production
 
-USER node
+#USER node
 
 # Start the app
 EXPOSE 80

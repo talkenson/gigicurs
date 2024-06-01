@@ -2,7 +2,7 @@
     "scripts": {
         "typecheck": "tsc",
         "dev": "tsc-watch --onSuccess \"tsx ./main.ts\"",
-        "start": "tsx ./main.ts"
+        "start": "node -r jiti/register ./main.ts"
     },
     "dependencies": {
         "@googleapis/calendar": "^9.7.0",
@@ -11,6 +11,7 @@
         "grammy": "^1.10.0",
         "html-to-image": "^1.11.11",
         "imagescript": "^1.3.0",
+        "jiti": "^1.21.0",
         "jsdom": "^24.0.0",
         "luxon": "^3.4.4",
         "react": "^18.3.1",
